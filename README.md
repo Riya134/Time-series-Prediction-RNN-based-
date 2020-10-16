@@ -1,6 +1,7 @@
 # Time-series-Prediction (RNN based)
 The project is based on the time series prediction and forecast of a retail sales data for clothing and accessory stores. </br>
-The dataset has been obtained from the Federal Reserve Economic Data, Fred </br> 
+The dataset has been obtained from the Federal Reserve Economic Data, Fred and it looks like </br>
+![Time series Dataset](https://fred.stlouisfed.org/graph/fredgraph.png?id=RSCCASN&nsh=1.jpg?raw=true "Title")  </br> 
 </br>
 The project includes steps like - 
 </br> </br> 
