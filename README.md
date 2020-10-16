@@ -5,6 +5,7 @@ The dataset has been obtained from the Federal Reserve Economic Data, Fred and i
 </br>
 The project includes steps like - 
 </br> </br> 
+     -Analyzing the data</br>
      -Preprocessing the dataset</br>
      -Splitting the dataset </br>
      -Creating an RNN based Model </br>
